@@ -38,9 +38,9 @@ Survey papers:
 
 * [A Decade of Lattice-Based Cryptography](https://eprint.iacr.org/2015/939.pdf) by Chris Peikert
 * [Mathematics of Isogeny-Based Cryptography](https://arxiv.org/abs/1711.04062) by Luca de Feo
-* [The Learning with Errors Problem](https://cims.nyu.edu/~regev/papers/lwesurvey.pdf) by Oded Regev
 * [Post-Quantum Cryptography](https://www.researchgate.net/profile/Nicolas-Sendrier-2/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf)
 * [Post-quantum cryptography---dealing with the fallout of physics success](https://eprint.iacr.org/2017/314)
+* [The Learning with Errors Problem](https://cims.nyu.edu/~regev/papers/lwesurvey.pdf) by Oded Regev
 
 ## Software Projects
 
@@ -161,11 +161,13 @@ Internet Drafts and RFCs:
 
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) (benchmarks)
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
+* [PQCHacks: a gentle introduction to post-quantum cryptography (slides)](https://cr.yp.to/talks/2015.12.27/slides-dan+tanja-20151227-16x9.pdf)
+
 * Quantum Doomsday Planning blog posts:
     - [1/2: Risk assessment & quantum attacks](https://www.taurushq.com/blog/quantum-doomsday-planning-2-2-the-post-quantum-technology-landscape/)
     - [2/2: The post-quantum technology
       landscape](https://www.taurushq.com/blog/quantum-doomsday-planning-2-2-the-post-quantum-technology-landscape/)
-
+* [Tanja Lange's Youtube channel](https://www.youtube.com/@tanjalangeintrotocrypto3573)
 
 ## Related awesome-pages
 
